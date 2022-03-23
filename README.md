@@ -10,6 +10,6 @@ In metadeta you can find the structure of pickle and a lot of interested stuff.
 ## Screenshots
 
 <p float="left">
-  <img src="screenshots/1.png" width="50%" />
+  <img src="screenshots/1.png" width="48%" />
   <img src="screenshots/2.png" width="50%" /> 
 </p>
